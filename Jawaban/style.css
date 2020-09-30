@@ -1,0 +1,107 @@
+.kotak1
+{
+    background-color: rgb(21, 49, 82);
+    height: 35px;
+    width: 900px;
+  
+}
+.zoom:hover{
+    transform: scale(2);
+}
+.kananin{
+  
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.textstyle
+{
+    
+    color: rgb(255, 255, 255);
+    font-size: 15pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.centered{
+    width: 900px;
+    text-align: center;
+    color: rgb(117, 101, 27);
+    font-size: 21pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.textright{
+    padding-left:27em;
+    width: 900px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+
+}
+.textright1{
+    
+    width: 900px;
+
+    color: rgb(255, 255, 255);
+
+}
+
+.tulisantengah{
+    width:900px;
+    text-align: center;
+    color: rgb(117, 101, 27);
+    font-size: 12pt;
+}
+
+.garis{
+    border-top: black;
+    border-bottom: black;
+    text-align: center;
+    width: 200;
+}
+.center{
+    width: 900px;
+}
+
+.half{
+    width: 900px;
+    display: flex;
+  
+}
+.tulisanhalf{
+    width: 450px;
+    text-align: center;
+    color: rgb(117, 101, 27);
+    font-size: 21pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tulisantengah2{
+    text-align: center;
+    color: rgb(117, 101, 27);
+    font-size: 10pt;
+}
+.kotak2
+{
+    background-color: rgb(21, 49, 82);
+    height: 50px;
+    width: 900px;
+}
+.middleimg{
+    width: 900px;
+    text-align: center;
+}
+.blue{
+text-align: center;
+font-size: 10pt;
+color: rgb(255, 255, 255);
+}
+
+.kotak3
+{
+    background-color: rgb(135, 154, 177);
+    height: 700px;
+    width: 900px;
+}
+.kanan22{
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+}
